@@ -1,0 +1,17 @@
+{
+  "name": "codingkata/20170124",
+  "description": "Coding Kata am 24.01.2017",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CodingKata\\": "."
+    }
+  }
+}
